@@ -1,2 +1,2 @@
 # Quiz-App
-A small quiz app
+A small mobile quiz app
